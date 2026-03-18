@@ -1,19 +1,17 @@
-# my-sveltekit-notes
-
 # SvelteKit Docs Reading Progress
 
 ## Getting started
 
-- [ ] [Introduction](https://svelte.dev/docs/kit/introduction)
-- [ ] [Creating a project](https://svelte.dev/docs/kit/creating-a-project)
-- [ ] [Project types](https://svelte.dev/docs/kit/project-types)
-- [ ] [Project structure](https://svelte.dev/docs/kit/project-structure)
-- [ ] [Web standards](https://svelte.dev/docs/kit/web-standards)
+- [X] [Introduction](https://svelte.dev/docs/kit/introduction)
+- [X] [Creating a project](https://svelte.dev/docs/kit/creating-a-project)
+- [X] [Project types](https://svelte.dev/docs/kit/project-types)
+- [X] [Project structure](https://svelte.dev/docs/kit/project-structure)
+- [X] [Web standards](https://svelte.dev/docs/kit/web-standards)
 
 ## Core concepts
 
-- [ ] [Routing](https://svelte.dev/docs/kit/routing)
-- [ ] [Loading data](https://svelte.dev/docs/kit/load)
+- [X] [Routing](https://svelte.dev/docs/kit/routing)
+- [X] [Loading data](https://svelte.dev/docs/kit/load)
 - [ ] [Form actions](https://svelte.dev/docs/kit/form-actions)
 - [ ] [Page options](https://svelte.dev/docs/kit/page-options)
 - [ ] [State management](https://svelte.dev/docs/kit/state-management)
