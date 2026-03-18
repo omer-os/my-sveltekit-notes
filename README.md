@@ -11,7 +11,7 @@
 ## Core concepts
 
 - [X] [Routing](https://svelte.dev/docs/kit/routing)
-- [X] [Loading data](https://svelte.dev/docs/kit/load)
+- [ ] [Loading data](https://svelte.dev/docs/kit/load)
 - [ ] [Form actions](https://svelte.dev/docs/kit/form-actions)
 - [ ] [Page options](https://svelte.dev/docs/kit/page-options)
 - [ ] [State management](https://svelte.dev/docs/kit/state-management)
